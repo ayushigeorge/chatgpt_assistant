@@ -1,4 +1,4 @@
-# chatgpt_assistant
+
 # ChatGPT Assistant
 
 Welcome to the ChatGPT Assistant repository! This repository contains code and resources for creating a chatbot assistant using the ChatGPT language model from OpenAI. With this assistant, you can build interactive and conversational applications that can understand and generate human-like text responses.
